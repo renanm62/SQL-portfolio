@@ -1,2 +1,2 @@
 # SQL-portfolio
-Personal projects and certifications.
+Personal projects.
